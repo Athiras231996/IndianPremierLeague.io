@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IndianPremierLeague.io/static/css/main.65bdc8cc.css",
+    "main.js": "/IndianPremierLeague.io/static/js/main.89d57ae9.js",
+    "static/js/787.e376e278.chunk.js": "/IndianPremierLeague.io/static/js/787.e376e278.chunk.js",
+    "index.html": "/IndianPremierLeague.io/index.html",
+    "main.65bdc8cc.css.map": "/IndianPremierLeague.io/static/css/main.65bdc8cc.css.map",
+    "main.89d57ae9.js.map": "/IndianPremierLeague.io/static/js/main.89d57ae9.js.map",
+    "787.e376e278.chunk.js.map": "/IndianPremierLeague.io/static/js/787.e376e278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65bdc8cc.css",
+    "static/js/main.89d57ae9.js"
+  ]
+}
